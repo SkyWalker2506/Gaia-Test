@@ -55,3 +55,9 @@ MonoBehaviour:
     m_minorVersion: 0
     m_patchVersion: 4
     m_installTimeStamp: 1701472541663
+  - m_packageID: Stamps
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472715402

@@ -12,4 +12,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ec960e7dee79fb4495593dba6bc4cba, type: 3}
   m_Name: Package Config Settings
   m_EditorClassIdentifier: 
-  m_pWPackageConfigs: []
+  m_pWPackageConfigs:
+  - m_packageID: Gaia
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472349487
+  - m_packageID: AssetSamplesSyntyStudios
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472354437
+  - m_packageID: RuntimeControllerSupport
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472360474
+  - m_packageID: GaiaWater
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472370187
+  - m_packageID: ProceduralWorldsSky
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472381517
+  - m_packageID: SkyLightingPresets
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472535395
+  - m_packageID: UnityHDRPWater
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 4
+    m_installTimeStamp: 1701472541663

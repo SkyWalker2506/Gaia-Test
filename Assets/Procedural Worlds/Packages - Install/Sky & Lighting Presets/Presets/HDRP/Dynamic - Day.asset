@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Dynamic - Day
+  m_EditorClassIdentifier: 
+  m_displayName: Dynamic - Day
+  m_directionalLightPrefab: {fileID: 144346174884490846, guid: dbb8f0d539012a442818d0e86728bb62,
+    type: 3}
+  m_environmentPrefab: {fileID: 3726598089946033720, guid: 6cd57c0bfee29464fa9c8181c1d368d5,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 976266156504222033, guid: fbcac4069043a704c9072adf02cf4aab,
+    type: 3}
+  m_worldDensityPrefab: {fileID: 3437112918770804082, guid: e46fec4ae4072f0448876fb2feee2cca,
+    type: 3}

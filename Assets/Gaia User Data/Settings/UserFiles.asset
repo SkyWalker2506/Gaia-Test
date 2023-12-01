@@ -17,6 +17,8 @@ MonoBehaviour:
   m_sortBiomesBy: 0
   m_gaiaManagerBiomePresets:
   - {fileID: 11400000, guid: cd39f81994d657543aef1a90456ab2f8, type: 2}
+  - {fileID: 11400000, guid: 3a7ef5ae4c2683b41a447fc543158d2b, type: 2}
+  - {fileID: 11400000, guid: 72e4a992aaee441498506805656475e0, type: 2}
   m_gaiaManagerSpawnerSettings:
   - {fileID: 11400000, guid: 81b0e93a964e9804c9806f8bde6ba9ec, type: 2}
   m_exportTerrainSettings:

@@ -8,7 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_Tree_Spruce_05_Needles
-  m_Shader: {fileID: 4800000, guid: b59fbf1ddafb64aac89ae315fbb65877, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 896c4566c534d544085eac02e8d305d9,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -31,6 +32,7 @@ Material:
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -149,6 +151,8 @@ Material:
     - _PW_WindToggle: 0
     - _PW_WorldMapToggle: 0
     - _PW_WorldMapUVScale: 256
+    - _QueueControl: -1
+    - _QueueOffset: 0
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
@@ -197,6 +201,7 @@ Material:
     - _PW_WorldMapColorCover1: {r: 1, g: 1, b: 1, a: 1}
     - _PW_WorldMapColorObject: {r: 1, g: 0.615529, b: 0.3443396, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &3437674439980995318
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -213,3 +218,16 @@ MonoBehaviour:
   hdPluginSubTargetMaterialVersions:
     m_Keys: []
     m_Values: 
+--- !u!114 &8699065154787801461
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
